@@ -1,0 +1,14 @@
+{
+  "name": "@visforpinns/visualization-for-understanding-pinns",
+  "main": "e8f65592cc5a6345@2587.js",
+  "version": "2587.0.0",
+  "homepage": "https://observablehq.com/@visforpinns/visualization-for-understanding-pinns",
+  "author": {
+    "name": "VisForPINNs",
+    "url": "https://observablehq.com/@visforpinns"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
